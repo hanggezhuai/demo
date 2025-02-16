@@ -1,3 +1,4 @@
+// filepath: /workspaces/demo/装箱智多星/src/inputhandler.cpp
 #include "inputhandler.h"
 
 bool InputHandler::loadFromUserInput(const QString &vehicleInfo, const QString &cargoInfo) {

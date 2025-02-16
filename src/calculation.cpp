@@ -1,3 +1,4 @@
+// filepath: /workspaces/demo/装箱智多星/src/calculation.cpp
 #include "calculation.h"
 
 QString Calculation::calculateLoad(const QString &vehicleInfo, const QString &cargoInfo) {

@@ -1,3 +1,4 @@
+// filepath: /workspaces/demo/装箱智多星/src/outputhandler.cpp
 #include "outputhandler.h"
 #include <QFile>
 #include <QTextStream>
